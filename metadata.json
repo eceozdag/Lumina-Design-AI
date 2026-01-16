@@ -1,0 +1,7 @@
+{
+  "name": "LuminaDesign AI - Room Makeover",
+  "description": "An interactive AI interior design consultant that reimagines your space with a single photo, featuring a split-view comparison and real-time design refinement chat.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
